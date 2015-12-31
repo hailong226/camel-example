@@ -105,8 +105,8 @@
         <version>2.15.5</version>
         <configuration>
           <useBlueprint>true</useBlueprint>
-          <configAdminPid>org.github.example</configAdminPid>
-          <configAdminFileName>src/test/resources/org.github.example.cfg</configAdminFileName>
+          <!--<configAdminPid>org.github.example</configAdminPid>-->
+          <!--<configAdminFileName>src/test/resources/org.github.example.cfg</configAdminFileName>-->
         </configuration>
       </plugin>
 
